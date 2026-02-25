@@ -20,5 +20,5 @@ You can either **run the bash script directly** or follow the commands manually.
 ### 1️⃣ Download and Make Script Executable
 
 ```bash
-git clone https://github.com/msy1717/flask-domain-setup.git && cd flask-domain-setup && bash flask-domain-setup.sh
+git clone https://github.com/msy1717/flask-domain-setup.git && cd flask-domain-setup 
 
